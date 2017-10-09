@@ -1,0 +1,415 @@
+/* ----------- M a i n - b o d y ----------- */
+
+body {
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  position: absolute;
+  top:    0px; 
+  left:   0px;
+  right:  0px;
+  bottom: 0px;
+  /* margin does not actually apply to position=absolute according to
+     the CSS standard, but it seems to be required anyway. */
+  margin: 0px;
+  padding: 10px;
+  background: #ffffff;
+  color: #000000;
+}
+
+/*
+.BodyFrame {
+  background: #003322;
+  color: #ffffff;
+}
+*/
+
+.Body {
+  background: #ffffff;
+  color: #000000;
+}
+
+center, p, b, i, em, small, big {
+  font-family: Arial, Verdana, Geneva,sans-serif;
+}
+
+/* ------------- H e a d e r s ------------- */
+
+h1 {
+  background: transparent;
+  color: #003322;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+h2 {
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+h3, h4, h5, h6 {
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  font-style: italic;
+}
+
+
+/* --------------- L i n k s --------------- */
+
+a {
+  font-family: Arial, Verdana, Geneva,sans-serif;
+}
+
+a:link    { 
+  background: transparent;
+  color: #0000ff;
+  text-decoration: none;
+ }
+a:visited { 
+  background: transparent;
+  color: #0000ff;
+  text-decoration: none;
+}
+a:active  { 
+  background: transparent;
+  color: #0000ff;
+  text-decoration: none;
+}
+
+a.rightLinks {
+  color: #0000ff;
+  text-decoration: none;
+}
+
+a.rightLinks:active {
+  color: #0000ff;
+  text-decoration: none;
+}
+
+a.rightLinks:visited {
+  color: #0000ff;
+  text-decoration: none;
+}
+
+
+
+/* --------------- L i s t s --------------- */
+ul {
+ font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+li {
+ font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+
+/* ------------ V e r b a t i m ------------ */
+
+pre,tt,code {
+  font-family: 'Courier New', monospace;
+}
+
+
+
+/* --------------- F o r m s --------------- */
+
+.FormButton {
+  background: #003322;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: x-small;
+}
+
+
+/* -------------- T a b l e s -------------- */
+
+table, tr, th, td {
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+.TableHeader { 
+  background: #003322;
+  color: #000000; 
+  color: #ffffff; 
+  font-weight: bold; 
+ } 
+
+.Emphasized { 
+  background: #cccccc;
+  color: #000000; 
+ } 
+
+.Table {  
+  background: #ffffff; 
+  color: #000000;
+  border-width: thin;
+  border-color: #003322;
+  border-style: solid; 
+ }
+
+.TableGrey {  
+  background: #ffffff; 
+  color: #000000;
+  border-width: 1;
+  border-color: #555555;
+  border-style: solid; 
+ }
+
+.TableDotted {  
+  background: #f8f8f8; 
+  color: #000000;
+  border-width: thin;
+  border-color: #555555;
+  border-style: Dotted; 
+ }
+
+.TableNoBorder {  
+  background: #ffffff; 
+  color: #000000;
+ }
+
+
+/* ----------- N e w ----------- */
+
+.New { 
+  background: transparent;
+  color: red; 
+  font-weight: bold;
+}
+
+/* ----------- F o r m s ----------- */
+
+.MandatoryField { 
+  background: transparent;
+  color: red; 
+  font-weight: bold;
+}
+
+
+/* ----------- F o o t n o t e s ----------- */
+
+.Footnote { 
+  background: transparent;
+  color: gray; 
+}
+
+.FootnoteInverse { 
+  background: transparent;
+  color: white; 
+}
+
+.FootnoteTable { 
+  background: transparent;
+  color: gray; 
+  font-size: x-small;
+}
+
+/* ------- T i t l e b a r ------- */
+
+.Titlebar { 
+  background: #003322;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+.Titlebar a {
+  background: #003322;
+  background: transparent;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  text-decoration: none;
+}
+
+.Titlebar a:visited {
+  background: #003322;
+  background: transparent;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  text-decoration: none;
+}
+
+.Titlebar a:hover {
+  background: #003322;;
+  background: transparent;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  text-decoration: underline;
+}
+
+.Titlebar a:link {
+  background: #003322;
+  background: transparent;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  text-decoration: none;
+}
+
+.Titlebar a:active {
+  background: #003322;
+  background: transparent;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  text-decoration: none;
+}
+
+/* ------- T o p   N a v i g a t o r ------- */
+
+.TopNavigator { 
+  background: #003322;
+  color: white;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+.TopNavigator a {
+  background: #003322;
+  background: transparent;
+  color: white;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+.TopNavigator a:visited {
+  background: #003322;
+  background: transparent;
+  color: white;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+.TopNavigator a:link {
+  background: #003322;
+  background: transparent;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+.TopNavigator a:active {
+  background: #003322;
+  background: transparent;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+/* ------- L e f t   N a v i g a t o r ------- */
+
+.LeftNavigator { 
+  background : #cccccc;
+  color      : #003322;
+    font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+.LeftNavigator a {
+  color      : #000000;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+.LeftNavigator a:visited {
+  color      : #000000;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+.LeftNavigator a:link {
+  color      : #000000;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+.LeftNavigator a:hover {
+  color      : #000000;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+.LeftNavigator a:active {
+  color      : #000000;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+
+
+
+
+/* -------------- F o o t e r -------------- */
+
+.Footer { 
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  font-size: small;
+/*  margin-top: 2em; */
+}
+
+.Footer tr { 
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  font-size: small;
+}
+
+.Footer tr td { 
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  font-size: small;
+}
+
+.Footer td { 
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  font-size: small;
+}
+
+.Footer a { 
+  background: transparent;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  text-decoration: none;
+}
+
+.Footer a:link { 
+  background: transparent;
+  color: #ffffff;
+ font-family: Arial, Verdana, Geneva, sans-serif;
+  text-decoration: none;
+}
+
+.Footer a:visited { 
+  background: transparent;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  text-decoration: none;
+}
+
+.Footer a:active { 
+  background: transparent;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  text-decoration: underline;
+}
+
+.Footer a:hover { 
+  background: transparent;
+  color: #ffffff;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+  text-decoration: underline;
+}
+
+
+
+/* -------------- T o o l b a r ------------- */
+
+.GoogleButton { 
+  font-size  : 65%;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+.GoogleInput { 
+  border     : 1px solid #0099C2;
+  font-size  : 75%;
+  font-family: Arial, Verdana, Geneva, sans-serif;
+}
+
+.Google { 
+  border: white 2px dotted;
+  align : center;
+  padding: 0px;
+}
+
+.GoogleForm { 
+  margin-bottom: 0px;
+}
+  
+

@@ -1,0 +1,10 @@
+Sequence                [0.gif] Predicted Δ 
+                                           
+YIYLGGAILAEVIGTTLMKF           1.229        [analyze]
+FTRLWPSVGTIICYCASFWLLA         0.452        [analyze]
+IAYAIWSGVGIVLISLLSWGFF         -1.497       [analyze]
+RLDLPAIIGMMLICAGVLIINLL        -1.472       [analyze]
+
+
+
+

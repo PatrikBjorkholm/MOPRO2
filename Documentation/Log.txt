@@ -1,0 +1,66 @@
+Important Projects.
+ExtractDGfasta - used to create files needed by MOPRO2.
+MotifAnalyzerLargeDataSe - is the main executable.
+Arguments for MOPRO2 is [0] = motif files
+			[1] = sequence files
+
+Large Scale Summary is the program used combine the large scale data and to evalute the motifs. The files that are used as input are the motif files used in the clustering, the 
+output 
+
+
+Uppnex project
+
+
+19th mars
+Trying to find new datasets for MOPRO2. Looking around in uniprot:
+General membrane mammalia.
+We only use reference proteomes. Good search criteria:
+"taxonomy:40674 AND keyword:1185 AND annotation:(type:location "membrane")"
+
+25th March
+Downaloaded all mammalian genome subsets.
+Homology reduced The combined and the Plasma dataset. 
+
+5th May
+started generating SP - data for all datasets
+started writing training doc.
+
+6th May
+Finished SP data.
+organized folders.
+
+7th May
+Fixed and improved training jar for MOPRO to TMH origin and DG for segment
+added into training. Trained all Mammalian groups, and training program now
+a jar-file.
+
+9th May
+Found the new proper executable. Have added Z-score the program, will have to 
+properly control the P-value.
+
+To Do: Fix parsefication of new input files! 
+
+12th May the parseficitation of input files have been done. 
+Suspicions that P-value calculations are incorrect has been confirmed.
+Needs to be fixed before I start runnning on the cluster. 
+P-value fixed wrong array assigment.
+Jar-exported.
+
+15th may Downloaded more fasta files, downloaded viral sequnces into a number of cateragories.
+The viral data has been homology reduced down to 30% and signal peptides have been predicted.
+All final files were created for the viruses.
+
+19th May transferred Base files to new computer on Molev.
+
+20th May Old computer dead. Make trial run on new computer to estimate 5th level motif calculation time.
+
+6th of August transferred all my files to glob on milou cluster to run tests for Motifs on cluster. Also separated all int 160 separated motif files.
+
+7th made first trial run on cluster. A four hour run. 
+
+9th of April, logn list of updates to log.
+-All mammalian suborgannles have been run on the cluster.
+-Some runs were interrupted so there must be made atleast some compimentary runs to fiöll gaps.
+-Program Written to analyze the large separated files of Data.
+-Written program to cluster results
+

@@ -1,0 +1,82 @@
+Name Description Site Name Description Site
+AAAS Aladin Nu 
+PITPB Phosphatidylinositol transfer protein b Cyto
+APOO Apolipoprotein O Sec 
+PCYOX Prenylcysteine-oxidase 1 Lyso
+AIFM1 Apoptosis-inducing factor 1 Mito 
+PGRC1 Progesterone receptor component 1 ER
+ADCL1 Neutral cholesterol ester hydrolase 1 ER 
+PGRC2 Progesterone receptor component 2 ER
+ATLA3 Atlastin-3 ER PHB2 Prohibitin-2 Mito
+BAP29 B-cell receptor-associated protein 29 
+ER PGES2 Prostaglandin-E synthase 2 Golgi
+BAP31 B-cell receptor-associated protein 31 
+ER F1142 Protein FAM114A2 Cyto
+BRIB3 BRI3-binding protein Mito 
+JAGN1 Protein jagunal homolog ER
+FACE1 CAAX prenyl protease 1 homolog 
+ER SEL1L Protein sel-1 homolog ER
+CAMLG Calcium signal-modulating cyclophilin ligand 
+ER TP4A2 Protein tyrosine phosphatase type IVA 2 Cyto
+CPT2 Carnitine O-palmitoyltransferase 2 Mito 
+RAB10 Ras-related protein Rab10 Cyto
+CISD1 CDGSH iron sulfur domain containing protein 
+ER RB11A Ras-related protein Rab11A Cyto
+CDIPT CDP-diacylglycerol-inositol-3-phosphatidyltransferase 
+ER RAB1A Ras-related protein Rab1A Cyto
+CLCC1 Chloride channel CLIC-like protein 1 
+ER RAB1B Ras-related protein Rab1B Cyto
+CLPT1 Cleft lip and palate transmembrane protein 1 ? 
+RTN3 Reticulon-3 ER
+COPZ1 Coatomer subunit zeta-1 Cyto 
+AT2A Sarcoplasmic/endoplasmic calcium ATPase ER
+CCD47 Coiled-coil domain-containing protein 47 ? 
+SCO2 SCO2 protein homolog Mito
+CYB5 Cytochrome b5 ER SFXN3 Sideroflexin-3 Mito
+CP51A Cytochrome P450 51A1 ER 
+SC11A Signal peptidase complex catalytic subunit SEC11A ER
+DHC24 24-dehydrocholesterol reductase ER 
+SPCS2 Signal peptidase complex 2 ER
+DHRS7 Dehydrogenase/reductase SDR family member 7 Sec 
+SAM50 Sorting and assembly machinery component 50 Mito
+PYRD Dihydroorotate dehydrogenase Mito 
+SGPL1 Sphingosine-1-phosphate lyase 1 ER
+RPN1 Dolichyl-diphosphooligosaccharide-protein 
+ER ERG1 Squalene monooxygenase ER
+EMD Emerin Nu FDFT Squalene synthetase ER
+DHB12 Estradiol 17-b-dehydrogenase 12 ER 
+STARD7 StAR-related lipid transfer protein 7 Cyto
+AL3A2 Fatty aldehyde dehydrogenase ER 
+NSDHL Sterol-4-alpha-carboxylate-3-dehydrogenase ?
+GOSR1 Golgi SNAP receptor complex member 1 Golgi 
+SQRD Sulfide:quinone oxidoreductase Mito
+PIGS GPI-anchor transamidase component PIG-S ER 
+SYJ2B Synaptojanin-2-binding protein Mito
+GPI8 GPI-anchor transamidase ER STX5 Syntaxin-5 Golgi
+HMOX1 Heme oxygenase 1 ER TOR1A Torsin-1A ER
+HMOX2 Heme oxygenase 2 ER TOIP1 Torsin-1A interacting protein 1 Nu
+HXK2 Hexokinase 2 Mito SSRA Translocon-assocated protein subunit alpha ER
+KTN1 Kinectin ER SSRG Translocon-assocated protein subunit gamma ER
+LAP2B Lamina-associated polypeptide 2 Nu 
+TMED2 Transmembrane emp24 domain-containing protein 2 Golgi
+ERG7 Lanosterol synthase ER 
+ECHA Trifunctional enzyme subunit alpha Mito
+LETM1 LETM1 and EF-hand domain-containing protein 1 Mito 
+PTN1 Tyrosine-protein phosphatase non-receptor type 1 ER
+MET7A Methyltransferase-like protein 7A ER 
+UB2J1 Ubiquitin-conjugating enzyme E2 J1 ER
+M2OM Mitochondrial 2-oxoglutarate/malate carrier protein Mito 
+CT116 Uncharacterized protein C20orf116 ?
+MTCH2 Mitochondrial carrier homolog 2 Mito 
+CO024 UPF0480 protein C15orf24 ?
+DIC Mitochondrial dicarboxylate carrier Mito 
+SEC20 Vesicle transport protein SEC20 ER
+TIM23 Mitochondrial inner membrane translocase subunit 1 Mito 
+VAMP8 Vesicle-associated membrane protein 8 Endo
+ABHD6 Monoacylglycerol lipase ER 
+VAPB Vesicle-associated membrane protein-ass. protein ER
+NCPR NADPH-cytochrome P450 reductase ER 
+VKORL Vitamine K epoxide reductase complex subunit 1 ?
+NPTN Neuroplastin PM 
+VDAC3 Voltage-dependent anion-selective channel protein 3 Mito
+ORML2 ORM1-like protein 2 ER

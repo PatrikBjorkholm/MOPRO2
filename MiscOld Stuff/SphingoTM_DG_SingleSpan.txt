@@ -1,0 +1,737 @@
+
+>sp|Q8R2Y0|ABHD6_MOUSE Monoacylglycerol lipase ABHD6 OS=Mus musculus GN=Abhd6 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-19	   	19	   	2.892	 	MDLDVVNMFVIAGGTLAIP	 	[analyze]
+20-42	   	23	   	-1.367	 	ILAFVASFLLWPSALIRIYYWYW	 	[analyze]
+
+
+
+
+>sp|O35598|ADA10_MOUSE Disintegrin and metalloproteinase domain-containing protein 10 OS=Mus musculus GN=Adam10 PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-19	   	19	   	0.729	 	MVLPTVLILLLSWAAGLGG	 	[analyze]
+679-700	   	22	   	-2.870	 	WWAVLLMGIALIMLMAGFIKIC	 	[analyze]
+
+
+
+
+>sp|Q6P1H6|ANKL2_MOUSE Ankyrin repeat and LEM domain-containing protein 2 OS=Mus musculus GN=Ankle2 PE=2 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+13-35	   	23	   	-1.660	 	ALAWELLGASVLFIAVRWLVRRL	 	[analyze]
+
+
+
+
+>sp|P59017|B2L13_MOUSE Bcl-2-like protein 13 OS=Mus musculus GN=Bcl2l13 PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+149-167	   	19	   	2.006	 	KLLVPLVLLQHLLLELTRR	 	[analyze]
+410-432	   	23	   	-2.102	 	LLFGGAAAVAILAVAVGVALALR	 	[analyze]
+
+
+
+
+>sp|P18572|BASI_MOUSE Basigin OS=Mus musculus GN=Bsg PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+4-26	   	23	   	-0.201	 	ALLLALAFTLLSGQGACAAAGFL	 	[analyze]
+327-349	   	23	   	-1.575	 	AALWPFLGIVAEVLVLVTIIFIY	 	[analyze]
+
+
+
+
+>sp|O35607|BMPR2_MOUSE Bone morphogenetic protein receptor type-2 OS=Mus musculus GN=Bmpr2 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+9-27	   	19	   	0.337	 	FRVPWLLWAVLLVSTTAAS	 	[analyze]
+151-173	   	23	   	-2.421	 	IIIALASVSVLAVLIVALCFGYR	 	[analyze]
+404-424	   	21	   	2.221	 	VDMYALGLIYWEVFMRCTDLF	 	[analyze]
+
+
+
+
+>sp|Q8R2Q8|BST2_MOUSE Bone marrow stromal antigen 2 OS=Mus musculus GN=Bst2 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+28-50	   	23	   	-3.715	 	WLGAAILVVLFGVTLVILTIYFA	 	[analyze]
+153-172	   	20	   	1.263	 	GSSMVVSSLLVLKVSLFLLF	 	[analyze]
+
+
+
+
+>sp|Q8BIF0|C99L2_MOUSE CD99 antigen-like protein 2 OS=Mus musculus GN=Cd99l2 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-20	   	20	   	-1.411	 	MVARLTAFLVCLVFSLATLV	 	[analyze]
+162-184	   	23	   	1.292	 	TIAGVASALAMALIGAVSSYISY	 	[analyze]
+
+
+
+
+>sp|P55288|CAD11_MOUSE Cadherin-11 OS=Mus musculus GN=Cdh11 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+5-25	   	21	   	2.172	 	YCLQAALVCLSMLYHSQAFAL	 	[analyze]
+619-641	   	23	   	-5.668	 	ALIAILACIVILLVIVVLFVTLR	 	[analyze]
+
+
+
+
+>sp|O89001|CBPD_MOUSE Carboxypeptidase D OS=Mus musculus GN=Cpd PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+13-35	   	23	   	-0.015	 	LGRLRLLPPPPLLLLLLLLRSSA	 	[analyze]
+996-1014	   	19	   	2.331	 	VGTELLLALAEFLCLNYKR	 	[analyze]
+1297-1319	   	23	   	-0.876	 	LVVTVSGATMSALILTACIIWCI	 	[analyze]
+
+
+
+
+>sp|Q9D024|CCD47_MOUSE Coiled-coil domain-containing protein 47 OS=Mus musculus GN=Ccdc47 PE=2 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-22	   	22	   	0.464	 	MKAFYAFCVVLLVFGSVSEAKF	 	[analyze]
+135-155	   	21	   	0.348	 	SYYLEILMVTGLLAYIMNYII	 	[analyze]
+207-227	   	21	   	2.375	 	LWCSGRVCCEGMLIQLRFLKR	 	[analyze]
+
+
+
+
+>sp|Q9DCG2|CD302_MOUSE CD302 antigen OS=Mus musculus GN=Cd302 PE=2 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+4-22	   	19	   	0.728	 	AALSSLVLLSLATAIVADC	 	[analyze]
+170-192	   	23	   	-2.268	 	TLVIASTVTLAVLGAIIWFLYRR	 	[analyze]
+
+
+
+
+>sp|P15379|CD44_MOUSE CD44 antigen OS=Mus musculus GN=Cd44 PE=1 SV=3
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+3-21	   	19	   	1.976	 	KFWWHTAWGLCLLQLSLAH	 	[analyze]
+686-706	   	21	   	-3.306	 	WLIILASLLALALILAVCIAV	 	[analyze]
+
+
+
+
+>sp|Q8C1F4|CGAT2_MOUSE Chondroitin sulfate N-acetylgalactosaminyltransferase 2 OS=Mus musculus GN=Csgalnact2 PE=2 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+11-32	   	22	   	-3.802	 	RTQWLLLGLALLFSLVLFMYLL	 	[analyze]
+
+
+
+
+>sp|Q8BMK4|CKAP4_MOUSE Cytoskeleton-associated protein 4 OS=Mus musculus GN=Ckap4 PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+85-106	   	22	   	-0.123	 	RVLNFLFYLSLVAAAAFSGWYV	 	[analyze]
+
+
+
+
+>sp|Q8K4Q8|COL12_MOUSE Collectin-12 OS=Mus musculus GN=Colec12 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+40-62	   	23	   	-2.586	 	IVLLYILCALLTITVAILGYKVV	 	[analyze]
+
+
+
+
+>sp|Q8BKE6|CP20A_MOUSE Cytochrome P450 20A1 OS=Mus musculus GN=Cyp20a1 PE=2 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-23	   	23	   	-2.729	 	MLDFAIFAVTFLLALVGAVLYLY	 	[analyze]
+266-288	   	23	   	0.259	 	ILEDCVVFSLASCIITARLCTWT	 	[analyze]
+412-433	   	22	   	-1.027	 	LRFAYMVTAVLVSVLLKRLRLL	 	[analyze]
+
+
+
+
+>sp|P97792|CXAR_MOUSE Coxsackievirus and adenovirus receptor homolog OS=Mus musculus GN=Cxadr PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-20	   	20	   	0.201	 	MARLLCFVLLCGIADFTSGL	 	[analyze]
+238-260	   	23	   	-2.542	 	TIAGAVIGTLLALVLIGAILFCC	 	[analyze]
+
+
+
+
+>sp|Q62371|DDR2_MOUSE Discoidin domain-containing receptor 2 OS=Mus musculus GN=Ddr2 PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-23	   	23	   	-0.890	 	MIPIPRMPLVLLLLLLILGSAKA	 	[analyze]
+400-422	   	23	   	-5.459	 	ILIGCLVAIIFILLAIIVIILWR	 	[analyze]
+763-783	   	21	   	2.999	 	FTTASDVWAFGVTLWETFTFC	 	[analyze]
+
+
+
+
+>sp|Q09163|DLK1_MOUSE Protein delta homolog 1 OS=Mus musculus GN=Dlk1 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-22	   	22	   	-0.000	 	MIATGALLRVLLLLLAFGHSTY	 	[analyze]
+307-329	   	23	   	-1.708	 	ICFTILGVLTSLVVLGTVAIVFL	 	[analyze]
+
+
+
+
+>sp|Q4PZA2|ECE1_MOUSE Endothelin-converting enzyme 1 OS=Mus musculus GN=Ece1 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-23	   	23	   	1.898	 	MRTVWSPLAAALAALGMSTYKRA	 	[analyze]
+68-90	   	23	   	-1.827	 	LVVLVTLLAAGLVACLAALGIQY	 	[analyze]
+696-718	   	23	   	2.207	 	TLGLTSNQLFFLGFAQVWCSVRT	 	[analyze]
+
+
+
+
+>sp|P52800|EFNB2_MOUSE Ephrin-B2 OS=Mus musculus GN=Efnb2 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+11-33	   	23	   	0.802	 	VWKYCWGLLMVLCRTAISRSIVL	 	[analyze]
+231-253	   	23	   	-3.913	 	FAGIASGCIIFIVIIITLVVLLL	 	[analyze]
+
+
+
+
+>sp|P21995|EMB_MOUSE Embigin OS=Mus musculus GN=Emb PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+7-27	   	21	   	-0.083	 	LRALVAPGYPLLLLCLLAATR	 	[analyze]
+267-288	   	22	   	-2.724	 	FLAILAEVILLVAIILLCEVYT	 	[analyze]
+
+
+
+
+>sp|Q9WV91|FPRP_MOUSE Prostaglandin F2 receptor negative regulator OS=Mus musculus GN=Ptgfrn PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+5-26	   	22	   	0.585	 	APRPLLLALLSLAVCRGRVVRV	 	[analyze]
+703-721	   	19	   	2.964	 	RGDLIKLFCIVTVEGAVLD	 	[analyze]
+831-853	   	23	   	-0.163	 	YPLLIGVGLSTVIGLLSCLIGYC	 	[analyze]
+
+
+
+
+>sp|O08912|GALT1_MOUSE Polypeptide N-acetylgalactosaminyltransferase 1 OS=Mus musculus GN=Galnt1 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+6-28	   	23	   	-1.226	 	YCKVVLATSLVWVLLDMFLLLYF	 	[analyze]
+
+
+
+
+>sp|O08832|GALT4_MOUSE Polypeptide N-acetylgalactosaminyltransferase 4 OS=Mus musculus GN=Galnt4 PE=2 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+3-25	   	23	   	-1.803	 	VRWTWAGKSCLLLALLTLAYILV	 	[analyze]
+207-226	   	20	   	1.732	 	LVRARLIGATFATGDVLTFL	 	[analyze]
+
+
+
+
+>sp|Q99P91|GPNMB_MOUSE Transmembrane glycoprotein NMB OS=Mus musculus GN=Gpnmb PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+4-22	   	19	   	0.439	 	LCGVLGFLLLAAGLPLQAA	 	[analyze]
+378-400	   	23	   	2.788	 	YGYFRATITIVEGILEVSIMQIA	 	[analyze]
+503-524	   	22	   	-1.703	 	GVLISIGCLAVLVTMVTILLYK	 	[analyze]
+
+
+
+
+>sp|Q8R3H7|HS2ST_MOUSE Heparan sulfate 2-O-sulfotransferase 1 OS=Mus musculus GN=Hs2st1 PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+11-29	   	19	   	0.368	 	KLQLLAVVAFAVAMLFLEN	 	[analyze]
+
+
+
+
+>sp|Q9DBZ1|IKIP_MOUSE Inhibitor of nuclear factor kappa-B kinase-interacting protein OS=Mus musculus GN=Ikbip PE=2 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+41-60	   	20	   	-0.675	 	RTGLSLLSLAMTLGLAWLVF	 	[analyze]
+
+
+
+
+>sp|Q61730|IL1AP_MOUSE Interleukin-1 receptor accessory protein OS=Mus musculus GN=Il1rap PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-20	   	20	   	2.094	 	MGLLWYLMSLSFYGILQSHA	 	[analyze]
+53-74	   	22	   	2.889	 	FLKYNYSTAHSSGLTLIWYWTR	 	[analyze]
+361-383	   	23	   	-2.453	 	ACGFGATVFLVVVLIVVYHVYWL	 	[analyze]
+
+
+
+
+>sp|Q80V26|IMPA3_MOUSE Inositol monophosphatase 3 OS=Mus musculus GN=Impad1 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+6-28	   	23	   	-1.425	 	IRLSPLGVAVFFLLGLGVLYHLY	 	[analyze]
+
+
+
+
+>sp|Q62470|ITA3_MOUSE Integrin alpha-3 OS=Mus musculus GN=Itga3 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+14-33	   	20	   	-0.715	 	WLLRALALMVAACGRVAFAF	 	[analyze]
+715-734	   	20	   	2.298	 	RMELLIAFEVIGVTLHTRDL	 	[analyze]
+806-824	   	19	   	2.506	 	VGDGLAALGTLVLGLEWPY	 	[analyze]
+994-1016	   	23	   	-5.177	 	LWLVLVAVGAGLLLLGLIILLLW	 	[analyze]
+
+
+
+
+>sp|Q61739|ITA6_MOUSE Integrin alpha-6 OS=Mus musculus GN=Itga6 PE=1 SV=3
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+2-24	   	23	   	0.268	 	AVAGQLCLLYLSAGLLARLGTAF	 	[analyze]
+1015-1037	   	23	   	-5.732	 	WWIILLAVLAGILMLALLVFLLW	 	[analyze]
+
+
+
+
+>sp|Q8C0Z1|ITFG3_MOUSE Protein ITFG3 OS=Mus musculus GN=Itfg3 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+50-72	   	23	   	-3.078	 	VAFFLSLFTCLFVVFVLSFIIPC	 	[analyze]
+130-149	   	20	   	2.876	 	FSTPCAFVVAVSGANGSVLW	 	[analyze]
+176-198	   	23	   	1.974	 	ACIVVGRAGSFVAVSFFTGETLW	 	[analyze]
+276-296	   	21	   	2.225	 	AQYILLPCASALCGFSVKSLY	 	[analyze]
+
+
+
+
+>sp|O89051|ITM2B_MOUSE Integral membrane protein 2B OS=Mus musculus GN=Itm2b PE=2 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+53-75	   	23	   	-2.361	 	WCWCMCFGLAFMLAGVILGGAYL	 	[analyze]
+
+
+
+
+>sp|O88792|JAM1_MOUSE Junctional adhesion molecule A OS=Mus musculus GN=F11r PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+9-27	   	19	   	1.610	 	RKLLFLFTSMILGSLVQGK	 	[analyze]
+239-261	   	23	   	-4.111	 	IVAAVLVTLILLGLLIFGVWFAY	 	[analyze]
+
+
+
+
+>sp|P17047|LAMP2_MOUSE Lysosome-associated membrane glycoprotein 2 OS=Mus musculus GN=Lamp2 PE=2 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+9-31	   	23	   	0.168	 	AKLILIFLFLGAVQSNALIVNLT	 	[analyze]
+384-405	   	22	   	-2.664	 	IAVGAALGGVLILVLLAYFIGL	 	[analyze]
+
+
+
+
+>sp|P11438|LAMP1_MOUSE Lysosome-associated membrane glycoprotein 1 OS=Mus musculus GN=Lamp1 PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+6-26	   	21	   	0.531	 	ARRPLLLLLLAGLAHGASALF	 	[analyze]
+220-238	   	19	   	2.625	 	GTCLLASMALQLNITYLKK	 	[analyze]
+372-394	   	23	   	-2.722	 	LIPIAVGGALAGLVLIVLIAYLI	 	[analyze]
+
+
+
+
+>sp|Q8C129|LCAP_MOUSE Leucyl-cystinyl aminopeptidase OS=Mus musculus GN=Lnpep PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+109-131	   	23	   	-3.876	 	RTLVICVFVIVVAVSVIMVIYLL	 	[analyze]
+163-181	   	19	   	2.894	 	WAQIRLPTAIIPLCYELSL	 	[analyze]
+544-563	   	20	   	2.722	 	FDSLSYFKGASLLLMLKSYL	 	[analyze]
+
+
+
+
+>sp|Q9Z2I0|LETM1_MOUSE LETM1 and EF-hand domain-containing protein 1, mitochondrial OS=Mus musculus GN=Letm1 PE=2 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+167-185	   	19	   	2.334	 	FRLLWIDTKIAARMLWRIL	 	[analyze]
+205-224	   	20	   	-0.336	 	LFRLVPFLVFVVVPFMEFLL	 	[analyze]
+
+
+
+
+>sp|Q91ZX7|LRP1_MOUSE Prolow-density lipoprotein receptor-related protein 1 OS=Mus musculus GN=Lrp1 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-22	   	22	   	0.890	 	MLTPPLLLLLPLLSALVSGATM	 	[analyze]
+4425-4447	   	23	   	-4.475	 	ILIPLLLLLLLLLVAGVVFWYKR	 	[analyze]
+
+
+
+
+>sp|Q80WJ7|LYRIC_MOUSE Protein LYRIC OS=Mus musculus GN=Mtdh PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+19-38	   	20	   	2.577	 	ARLRELLSVGLGFLRTELGL	 	[analyze]
+50-72	   	23	   	-3.052	 	WVILVGTGALGLLLLFLLGYGWA	 	[analyze]
+
+
+
+
+>sp|A2AJ15|MA1B1_MOUSE Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase OS=Mus musculus GN=Man1b1 PE=2 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+46-68	   	23	   	-2.511	 	RLQRNVILFVLGFLILCGFLYSL	 	[analyze]
+243-262	   	20	   	2.203	 	WFGLGLTLIDALDTMWILGL	 	[analyze]
+
+
+
+
+>sp|P27046|MA2A1_MOUSE Alpha-mannosidase 2 OS=Mus musculus GN=Man2a1 PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+7-26	   	20	   	-2.110	 	FTVFGSAIFCVVIFSLYLML	 	[analyze]
+
+
+
+
+>sp|Q8R404|MIC13_MOUSE MICOS complex subunit MIC13 OS=Mus musculus GN=Mic13 PE=3 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+4-26	   	23	   	1.943	 	RVWSLMRFLIKGSVAGGAVYLVY	 	[analyze]
+
+
+
+
+>sp|P53690|MMP14_MOUSE Matrix metalloproteinase-14 OS=Mus musculus GN=Mmp14 PE=2 SV=3
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+9-28	   	20	   	0.691	 	RSLLLPLLTLGTALASLGWA	 	[analyze]
+542-564	   	23	   	-3.869	 	VVLPVLLLLLVLAVGLAVFFFRR	 	[analyze]
+
+
+
+
+>sp|Q07113|MPRI_MOUSE Cation-independent mannose-6-phosphate receptor OS=Mus musculus GN=Igf2r PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+14-33	   	20	   	-0.717	 	RVALLPPLLLLLLLAAAGSA	 	[analyze]
+2295-2316	   	22	   	-2.544	 	AVGAVLSLLLVALTGCLLALLL	 	[analyze]
+
+
+
+
+>sp|Q64449|MRC2_MOUSE C-type mannose receptor 2 OS=Mus musculus GN=Mrc2 PE=1 SV=3
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+11-29	   	19	   	1.831	 	WPRHLLRCVLLLGGLRLGH	 	[analyze]
+611-629	   	19	   	2.640	 	GYRRGGCVALATGSAMGLW	 	[analyze]
+1414-1436	   	23	   	-4.077	 	LVVVLTAVLLLLALMTAALILYR	 	[analyze]
+
+
+
+
+>sp|Q8R2Y2|MUC18_MOUSE Cell surface glycoprotein MUC18 OS=Mus musculus GN=Mcam PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+3-22	   	20	   	-0.044	 	LPKLVCVFLFAACCCCRRAA	 	[analyze]
+419-437	   	19	   	2.670	 	LNRTQLVSVGIFGSPWMAL	 	[analyze]
+562-584	   	23	   	-3.069	 	VVIVAVIVCTLVLAVLGAALYFF	 	[analyze]
+
+
+
+
+>sp|P57716|NICA_MOUSE Nicastrin OS=Mus musculus GN=Ncstn PE=1 SV=3
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+14-32	   	19	   	0.746	 	SRGLLLLSFSVVLAGLCGG	 	[analyze]
+667-689	   	23	   	-0.814	 	LEFITLIVGFSTLVFSLIVTYCI	 	[analyze]
+
+
+
+
+>sp|P97300|NPTN_MOUSE Neuroplastin OS=Mus musculus GN=Nptn PE=1 SV=3
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+6-24	   	19	   	1.201	 	LPGALALSLLLVSGSLLPG	 	[analyze]
+339-361	   	23	   	-1.936	 	LWPFLGILAEIIILVVIIVVYEK	 	[analyze]
+
+
+
+
+>sp|P58281|OPA1_MOUSE Dynamin-like 120 kDa protein, mitochondrial OS=Mus musculus GN=Opa1 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+97-115	   	19	   	1.734	 	LLKLRYIILGSAVGGGYTA	 	[analyze]
+
+
+
+
+>sp|Q8VHR0|PCD18_MOUSE Protocadherin 18 OS=Mus musculus GN=Pcdh18 PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+10-28	   	19	   	0.998	 	FRFALALLMAFFSHDVLAK	 	[analyze]
+500-520	   	21	   	1.624	 	VTYTILESFVLGSSITTYVTI	 	[analyze]
+700-722	   	23	   	-3.298	 	MIIIISLGAICAVLLVIMVLFAT	 	[analyze]
+
+
+
+
+>sp|B2RXS4|PLXB2_MOUSE Plexin-B2 OS=Mus musculus GN=Plxnb2 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-21	   	21	   	-0.339	 	MALPLWALTFLGLTGLGLSLR	 	[analyze]
+276-298	   	23	   	1.943	 	AFGTCLAASVATSGAGRALYAVF	 	[analyze]
+1011-1031	   	21	   	2.960	 	FSLIQKFAMVVIAEPLRSWRR	 	[analyze]
+1204-1226	   	23	   	-2.492	 	LILPLVMVPMVFIIVVSIYCYWR	 	[analyze]
+1348-1366	   	19	   	2.792	 	ARAKVYFASLLTVALHGKL	 	[analyze]
+
+
+
+
+>sp|P0C5E4|PTPRQ_MOUSE Phosphatidylinositol phosphatase PTPRQ OS=Mus musculus GN=Ptprq PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-19	   	19	   	2.352	 	MDFLFFFLFSLIGTSESQV	 	[analyze]
+1013-1034	   	22	   	1.811	 	ARIYKLAVFSYYTFWLTASTLV	 	[analyze]
+1605-1625	   	21	   	2.766	 	VFTRYSVVITAFVGNVSGAYT	 	[analyze]
+1759-1779	   	21	   	2.869	 	ATGKLLVTSTTITIRMPICYY	 	[analyze]
+1907-1929	   	23	   	-3.086	 	IILSVTLCILSIILLGTAIFAFA	 	[analyze]
+
+
+
+
+>sp|Q8K2J7|RELL1_MOUSE RELT-like protein 1 OS=Mus musculus GN=Rell1 PE=2 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-22	   	22	   	1.529	 	MALWGLPGSAVLAASVFVGGAV	 	[analyze]
+60-82	   	23	   	-1.934	 	IAYVLVPVFFVMGLLGVLICHLL	 	[analyze]
+
+
+
+
+>sp|O54965|RNF13_MOUSE E3 ubiquitin-protein ligase RNF13 OS=Mus musculus GN=Rnf13 PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+8-30	   	23	   	1.078	 	LMLSATQVYTILTVQLFAFLNLL	 	[analyze]
+182-204	   	23	   	-5.090	 	YYLIPFLIIVGICLILIVIFMIT	 	[analyze]
+
+
+
+
+>sp|Q8C850|SCAR3_MOUSE Scavenger receptor class A member 3 OS=Mus musculus GN=Scara3 PE=2 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+56-78	   	23	   	-4.009	 	RILYLFLTLLLVAVAVLASLVFR	 	[analyze]
+
+
+
+
+>sp|Q9Z2G6|SE1L1_MOUSE Protein sel-1 homolog 1 OS=Mus musculus GN=Sel1l PE=2 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+3-23	   	21	   	-1.300	 	VRVRLSLLLLCAVLLGSAAAT	 	[analyze]
+275-297	   	23	   	0.670	 	LVYYTFGALGGNLIAHMILGYRY	 	[analyze]
+699-718	   	20	   	1.640	 	VPVFLALCKLGVVYFLQYIR	 	[analyze]
+739-758	   	20	   	-1.683	 	WDLYLMTIIALLLGTVIAYR	 	[analyze]
+
+
+
+
+>sp|Q9EPR5|SORC2_MOUSE VPS10 domain-containing receptor SorCS2 OS=Mus musculus GN=Sorcs2 PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+32-52	   	21	   	-2.090	 	RSWPLLLLLLVLVAACGAMGR	 	[analyze]
+892-910	   	19	   	2.571	 	LTAVLLPLNPNLTVFYWWI	 	[analyze]
+1080-1102	   	23	   	-3.251	 	YWAVVVLFVIGLFAVGAFILYKF	 	[analyze]
+
+
+
+
+>sp|Q6PHU5|SORT_MOUSE Sortilin OS=Mus musculus GN=Sort1 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+11-30	   	20	   	0.218	 	LLRWPLGLLLLLQLLPPAAV	 	[analyze]
+45-63	   	19	   	2.690	 	LLRWAGPVGVSWGLRAAAP	 	[analyze]
+121-143	   	23	   	1.607	 	VILVLTTFQVPLVIVSFGQSKLY	 	[analyze]
+296-317	   	22	   	2.834	 	TIGVKIYSFGLGGRFLFASVMA	 	[analyze]
+755-777	   	23	   	-1.816	 	VPIILAIVGLMLVTVVAGVLIVK	 	[analyze]
+
+
+
+
+>sp|O35704|SPTC1_MOUSE Serine palmitoyltransferase 1 OS=Mus musculus GN=Sptlc1 PE=2 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+22-40	   	19	   	-0.906	 	AYHLILEGILILWIIRLVF	 	[analyze]
+334-353	   	20	   	2.815	 	GYCFSASLPPLLAAAAIEAL	 	[analyze]
+
+
+
+
+>sp|Q9CY50|SSRA_MOUSE Translocon-associated protein subunit alpha OS=Mus musculus GN=Ssr1 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+1-22	   	22	   	-2.389	 	MRLLPRLLLLFLLAFPAAVLLR	 	[analyze]
+207-229	   	23	   	-1.410	 	TIFMYMFLAGLGLLVVVGLHQLL	 	[analyze]
+
+
+
+
+>sp|P70452|STX4_MOUSE Syntaxin-4 OS=Mus musculus GN=Stx4 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+275-297	   	23	   	-2.280	 	MIAICVSVTVLILAVIIGITITV	 	[analyze]
+
+
+
+
+>sp|Q9JKK1|STX6_MOUSE Syntaxin-6 OS=Mus musculus GN=Stx6 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+233-255	   	23	   	-5.040	 	RQWCAIAILFAVLVVVLILFLVL	 	[analyze]
+
+
+
+
+>sp|Q8BJS4|SUN2_MOUSE SUN domain-containing protein 2 OS=Mus musculus GN=Sun2 PE=1 SV=3
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+180-202	   	23	   	0.427	 	LVTFPGRLFGLLYWWIGTTWYRL	 	[analyze]
+224-245	   	22	   	-3.646	 	LKSFLWFLLLLLLLTGLTYGAW	 	[analyze]
+580-598	   	19	   	2.211	 	TYETKTALLSLFGIPLWYH	 	[analyze]
+
+
+
+
+>sp|P20352|TF_MOUSE Tissue factor OS=Mus musculus GN=F3 PE=1 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+9-31	   	23	   	-0.568	 	LLAALAPTFLGCLLLQVIAGAGI	 	[analyze]
+252-274	   	23	   	-3.317	 	TLIIVGAVVLLATIFIILLSISL	 	[analyze]
+
+
+
+
+>sp|Q62312|TGFR2_MOUSE TGF-beta receptor type-2 OS=Mus musculus GN=Tgfbr2 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+5-24	   	20	   	1.524	 	LLRGLWPLHIVLWTRIASTI	 	[analyze]
+197-216	   	20	   	-1.632	 	LLPPLGIAIAVIIIFYCYRV	 	[analyze]
+
+
+
+
+>sp|Q99KW9|TIP_MOUSE T-cell immunomodulatory protein OS=Mus musculus GN=Itfg1 PE=2 SV=2
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+11-33	   	23	   	0.323	 	AVLAPLFLGLALLSVGPAPARAL	 	[analyze]
+564-586	   	23	   	-4.559	 	IVLLTAVALIGVCIFILAIIAIL	 	[analyze]
+
+
+
+
+>sp|P70280|VAMP7_MOUSE Vesicle-associated membrane protein 7 OS=Mus musculus GN=Vamp7 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+187-209	   	23	   	-3.846	 	IKLTIIIIIVSIVFIYIIVSLLC	 	[analyze]
+
+
+
+
+>sp|P29533|VCAM1_MOUSE Vascular cell adhesion protein 1 OS=Mus musculus GN=Vcam1 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+3-21	   	19	   	0.361	 	VKMVAVLGASTVLWILFAV	 	[analyze]
+266-284	   	19	   	2.926	 	VLQLLSGNATLTLIAMRME	 	[analyze]
+699-721	   	23	   	-0.916	 	LLALYCASSLVIPAIGMIVYFAR	 	[analyze]
+
+
+
+
+>tr|F6V6T4|F6V6T4_MOUSE Transmembrane emp24 domain-containing protein 2 (Fragment) OS=Mus musculus GN=Tmed2 PE=1 SV=1
+
+Predicted TM helices:
+Position	   	Length	   	Predicted ΔG	   	Sequence		 
+144-166	   	23	   	-0.535	 	VVLWSFFEALVLVAMTLGQIYYL	 	[analyze]
+
+
+
+
+
